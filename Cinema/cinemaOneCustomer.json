@@ -1,0 +1,26 @@
+[ {
+  "id" : "C03207",
+  "firstName" : "Jon",
+  "lastName" : "Jones",
+  "birthDate" : [ 2000, 1, 1 ]
+}, {
+  "id" : "C03907",
+  "firstName" : "Javier",
+  "lastName" : "Bardem",
+  "birthDate" : [ 1999, 3, 18 ]
+}, {
+  "id" : "C05414",
+  "firstName" : "Joel",
+  "lastName" : "Coen",
+  "birthDate" : [ 1980, 11, 1 ]
+}, {
+  "id" : "C03370",
+  "firstName" : "Jane",
+  "lastName" : "Barney",
+  "birthDate" : [ 1996, 6, 27 ]
+}, {
+  "id" : "C04085",
+  "firstName" : "Jack",
+  "lastName" : "Brown",
+  "birthDate" : [ 1975, 3, 16 ]
+} ]

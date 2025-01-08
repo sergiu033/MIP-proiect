@@ -1,0 +1,16 @@
+[ {
+  "id" : "E07372",
+  "firstName" : "Alex",
+  "lastName" : "Pereira",
+  "birthDate" : [ 1990, 1, 1 ]
+}, {
+  "id" : "E07448",
+  "firstName" : "Marie",
+  "lastName" : "Schreider",
+  "birthDate" : [ 1996, 7, 10 ]
+}, {
+  "id" : "E06725",
+  "firstName" : "Walter",
+  "lastName" : "White",
+  "birthDate" : [ 1980, 8, 19 ]
+} ]
